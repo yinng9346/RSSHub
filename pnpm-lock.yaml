@@ -9,8 +9,8 @@ dependencies:
     specifier: 12.0.0
     version: 12.0.0
   '@notionhq/client':
-    specifier: 2.2.11
-    version: 2.2.11
+    specifier: 2.2.12
+    version: 2.2.12
   '@postlight/parser':
     specifier: 2.2.3
     version: 2.2.3
@@ -63,8 +63,8 @@ dependencies:
     specifier: 3.0.2
     version: 3.0.2
   googleapis:
-    specifier: 126.0.0
-    version: 126.0.0
+    specifier: 126.0.1
+    version: 126.0.1
   got:
     specifier: 11.8.6
     version: 11.8.6
@@ -1038,8 +1038,8 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@notionhq/client@2.2.11:
-    resolution: {integrity: sha512-yTKeVu0fB9PtlK9eQwN6y+MEq0J0vu1MPP7j5bme9+KTenH4OTcOAx/70+LgvN4Z4RSsymQxdXrtcLHMFN9ZuA==}
+  /@notionhq/client@2.2.12:
+    resolution: {integrity: sha512-LCzbOyVjVtui9GQPFEuvFd8JIWZbY/tgyCqrmxzGSjpGCwqjsEldeNC4qYjsMzVB4MIbP5y1vlWzLsUw/M9QAQ==}
     engines: {node: '>=12'}
     dependencies:
       '@types/node-fetch': 2.6.4
@@ -3557,8 +3557,8 @@ packages:
       - supports-color
     dev: false
 
-  /googleapis@126.0.0:
-    resolution: {integrity: sha512-BeCwYJfthEWUgY0ka7msSxyMuRwrwJTqL9yMlnuCxyy1JlRZwaI5ZVVp4ofwiGiNP9UuuR3Yk9CJKWQLg4Tq1A==}
+  /googleapis@126.0.1:
+    resolution: {integrity: sha512-4N8LLi+hj6ytK3PhE52KcM8iSGhJjtXnCDYB4fp6l+GdLbYz4FoDmx074WqMbl7iYMDN87vqD/8drJkhxW92mQ==}
     engines: {node: '>=14.0.0'}
     dependencies:
       google-auth-library: 9.0.0
